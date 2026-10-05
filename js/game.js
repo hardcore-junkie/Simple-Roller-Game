@@ -89,3 +89,4 @@ Game.loop = function () {
   Draw.everything();
   window.requestAnimationFrame(Game.loop);
 };
+
